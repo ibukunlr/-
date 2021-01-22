@@ -21,7 +21,7 @@ Email : rachealolaseile@gmail.com
   Udacity (Business Analytics)- May 2020
   *	Executed 4 projects using Advanced Microsoft Excel, Tableau and SQL
   * Queried a music store database using SQL, proposed 4 questions to be solved and ran all queries successfully
-  * Designed a dashboard, analysing and providing insights on the US Census Demographic data
+  [ Designed a dashboard, analysing and providing insights on the US Census Demographic data ] ( https://public.tableau.com/profile/ibukun.racheal.olaseile#!/vizhome/DASHBOARD_15874214277910/Dashboard1?publish=yes )
   * Analysed New York Stock Exchange data using statistical tools and business metrics 
   * Created a profit and loss statement for one of the companies listed in NYSE data and proposed a financial forecast for the next two consecutive years 
   
@@ -51,7 +51,6 @@ Petroleum Equalization Funds Mgt Board (IT Support Officer) - October 2014 - Aug
 |January 2020 | People Analytics|  Cousera-Wharton University of Pennsylvania |
 | December 2018 |	Operations Analytics| 	Cousera-Wharton University of Pennsylvania |
 | October 2018|Customer Analytics| 	Cousera-Wharton University of Pennsylvania |
-
 
 
  
