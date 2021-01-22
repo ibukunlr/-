@@ -1,5 +1,6 @@
 # Ibukun Racheal Olaseile
 Phone No : +2348135336987
+
 Email : rachealolaseile@gmail.com
 - A detailed oriented, action driven individual with a solid analytical and engineering background. Proven competencies in project management, customer relations, data analytics and visualization.Excellent understanding of business operations and analytics tools for effective analysis of data, drawing insights and communicating results in a way that is beneficial to the business stakeholders. 
 ## Skills
