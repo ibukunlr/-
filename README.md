@@ -4,12 +4,18 @@ Phone No : +2348135336987
 Email : rachealolaseile@gmail.com
 - A detailed oriented, action driven individual with a solid analytical and engineering background. Proven competencies in project management, customer relations, data analytics and visualization.Excellent understanding of business operations and analytics tools for effective analysis of data, drawing insights and communicating results in a way that is beneficial to the business stakeholders. 
 ## Skills
-* SQL
-* Tableau
-* Excel
-* Data Visualization
+* SQL                                 
+* Tableau                            
+* Excel                              
+* Data Visualization                  
+* Customer Service                   
+* CRM and Terminos 24 
 * Project Management
-* Customer Service
+* Client Engagement and Management 
+* Organizational and communication Skills 
+* Time Management
+* People Management
+
 
 ### Education
   Udacity (Business Analytics)- May 2020
